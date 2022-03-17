@@ -47,7 +47,7 @@
         <Text Name="HeaderText">Message from IT Helpdesk</Text>
         <Text Name="TitleText">Computer reboot required</Text>
         <Text Name="BodyText1">For security and stability reasons, we kindly ask you to restart your computer as soon as possible.</Text>
-        <Text Name="BodyText2">Your computer will force restart if no action is taken. Thank you!</Text>
+        <Text Name="BodyText2">Your computer will force restart within a day if no action is taken. Thank you!</Text>
         <Text Name="SnoozeText">Click snooze to be reminded again in:</Text>
         <Text Name="DeadlineText">Your deadline is:</Text>
         <Text Name="GreetMorningText">Good morning</Text>
